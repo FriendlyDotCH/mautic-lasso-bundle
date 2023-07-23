@@ -1,0 +1,26 @@
+.lasso-hide {
+    display: none;
+}
+
+.lasso-show {
+    display: block;
+}
+
+.lasso-config-widget {    
+    
+    clear: both;
+}
+
+.lasso-config-widget input, select {
+    max-width: 200px;
+}
+
+.lasso-config-widget .row{
+    display: inline;
+    float: left;
+    margin-left: 5px;
+}
+
+.chosen-container{
+    min-width: 150px;
+}
